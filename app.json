@@ -1,0 +1,12 @@
+{
+  "name": "HospitalAlert",
+  "displayName": "HospitalAlert",
+  "expo": {
+    "name": "HospitalAlert",
+    "slug": "HospitalAlert",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
